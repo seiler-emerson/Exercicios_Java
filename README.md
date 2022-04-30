@@ -5,8 +5,8 @@
 | AULA | ASSUNTO |
 |------|---------|
 |Exercicio 001|[Hello World](./exercicio%20001%20-%20Hello%20World/)
-|Exercicio 002|[Hello World]()
-|Exercicio 003|[Hello World]()
+|Exercicio 002|[Boas Vindas](./exercicio%20002%20-%20Mensagem%20Boas%20Vindas/)
+|Exercicio 003|[Soma](./exercicio%20003%20-%20Soma/)
 |Exercicio 004|[Hello World]()
 |Exercicio 005|[Hello World]()
 |Exercicio 006|[Hello World]()
