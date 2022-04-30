@@ -3,4 +3,4 @@
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)

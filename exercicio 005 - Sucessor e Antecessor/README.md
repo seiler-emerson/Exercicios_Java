@@ -1,6 +1,6 @@
-# Exercicio - Hello World
+# Exercicio - Sucessor e Antecessor
 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
