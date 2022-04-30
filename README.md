@@ -1,6 +1,6 @@
 # Repositório com Exercicios em Java
 
-![Que o java esteja com você!](./img/java.png)
+<img src="./img/java.png" width="200" height="200" />
 
 | AULA | ASSUNTO |
 |------|---------|
