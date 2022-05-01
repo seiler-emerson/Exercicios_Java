@@ -1,9 +1,9 @@
-# Exercicio - Hello World
-- Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.
+# Exercicio - Gerador de Tabuada
+- Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada de 1 a 10.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 

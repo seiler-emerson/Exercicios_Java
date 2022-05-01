@@ -1,9 +1,9 @@
-# Exercicio - Hello World
-- Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+# Exercicio - Conversor real para dólar
+- Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 

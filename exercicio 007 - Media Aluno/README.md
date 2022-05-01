@@ -1,9 +1,9 @@
-# Exercicio - Hello World
-- Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milimetros.
+# Exercicio - Média Aluno
+- Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 

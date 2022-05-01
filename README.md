@@ -10,8 +10,10 @@
 |Exercicio 004|[Contando Letras](./exercicio%20004%20-%20Contando%20letras/)
 |Exercicio 005|[Sucessor e Antecessor](./exercicio%20005%20-%20Sucessor%20e%20Antecessor/)
 |Exercicio 006|[Dobro Triplo e Raiz](./exercicio%20006%20-%20Dobro%20Triplo%20e%20Raiz/)
-|Exercicio 007|[---]()
-
+|Exercicio 007|[Média Aluno](./exercicio%20007%20-%20Media%20Aluno/)
+|Exercicio 008|[Conversor (m) para (cm)/(mm)](./exercicio%20008%20-%20Conversor%20Metros%20para%20CM%20e%20MM/)
+|Exercicio 009|[Gerador de Tabuada](./exercicio%20009%20-%20Gerador%20de%20Tabuada/)
+|Exercicio 010|[Conversor Real Dolar](./exercicio%20010%20-%20Conversor%20Real%20Dolar/)
 
 ## Entre em contato!
 

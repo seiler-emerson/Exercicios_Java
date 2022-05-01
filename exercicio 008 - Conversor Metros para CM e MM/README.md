@@ -1,9 +1,9 @@
-# Exercicio - Hello World
-- Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+# Exercicio - Conversor Metros para Centímetros e Milimetros
+- Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milimetros.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 
