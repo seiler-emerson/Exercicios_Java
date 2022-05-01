@@ -1,9 +1,9 @@
-# Exercicio - Hello World
-- Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ela.
+# Exercicio - Contando letras
+- Faça um programa que leia uma palavra e diga quantas letras ela tem.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 
