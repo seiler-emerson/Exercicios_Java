@@ -29,9 +29,9 @@
 |Exercicio 023|[Volume Lata](./exercicio%20023%20-%20Volume%20Lata/)
 |Exercicio 024|[Quantidade Cavalos Levantar Massa](./exercicio%20024%20-%20Quantidade%20Cavalos%20Levantar%20Massa/)
 |Exercicio 025|[Advinha o Número](./exercicio%20025%20-%20Advinha%20o%20Numero/)
-|Exercicio 026|[]()
-|Exercicio 027|[]()
-|Exercicio 028|[]()
+|Exercicio 026|[Radar Eletrônico](./exercicio%20026%20-%20Radar%20Eletronico/)
+|Exercicio 027|[Número Par ou Impar](./exercicio%2027%20-%20Numero%20Par%20ou%20Impar/)
+|Exercicio 028|[Preço Passagem](./exercicio%20028%20-%20Preco%20Passagem/)
 |Exercicio 029|[]()
 |Exercicio 030|[]()
 
