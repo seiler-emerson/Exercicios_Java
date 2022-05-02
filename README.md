@@ -32,8 +32,8 @@
 |Exercicio 026|[Radar Eletrônico](./exercicio%20026%20-%20Radar%20Eletronico/)
 |Exercicio 027|[Número Par ou Impar](./exercicio%2027%20-%20Numero%20Par%20ou%20Impar/)
 |Exercicio 028|[Preço Passagem](./exercicio%20028%20-%20Preco%20Passagem/)
-|Exercicio 029|[]()
-|Exercicio 030|[]()
+|Exercicio 029|[Verificador Ano Bisexto](./exercicio%20029%20-%20Verificador%20Ano%20Bisexto/)
+|Exercicio 030|[Calculadora de Aumento](./exercicio%20030%20-%20Calculadora%20de%20Aumento/)
 
 
 ## References
