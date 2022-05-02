@@ -28,7 +28,7 @@
 |Exercicio 022|[Parede Azulejos](./exercicio%20022%20-%20Parede%20Azulejos/)
 |Exercicio 023|[Volume Lata](./exercicio%20023%20-%20Volume%20Lata/)
 |Exercicio 024|[Quantidade Cavalos Levantar Massa](./exercicio%20024%20-%20Quantidade%20Cavalos%20Levantar%20Massa/)
-|Exercicio 025|[]()
+|Exercicio 025|[Advinha o Número](./exercicio%20025%20-%20Advinha%20o%20Numero/)
 |Exercicio 026|[]()
 |Exercicio 027|[]()
 |Exercicio 028|[]()
