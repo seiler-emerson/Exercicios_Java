@@ -24,16 +24,21 @@
 |Exercicio 018|[Seno/Cosseno/Tangente Angulo](./exercicio%20018%20-%20Seno%20Cosseno%20Tangente%20Angulo/)
 |Exercicio 019|[Idade Ano Atual](./exercicio%20019%20-%20Idade%20Ano%20Atual/)
 |Exercicio 020|[Média Aprovação Aluno](./exercicio%20020%20-%20Media%20Aprovacao%20Aluno/)
-|Exercicio 021|[]()
-|Exercicio 022|[]()
-|Exercicio 023|[]()
-|Exercicio 024|[]()
+|Exercicio 021|[Conversor de Temperaturas](./exercicio%20021%20-%20Conversor%20de%20Temperaturas/)
+|Exercicio 022|[Parede Azulejos](./exercicio%20022%20-%20Parede%20Azulejos/)
+|Exercicio 023|[Volume Lata](./exercicio%20023%20-%20Volume%20Lata/)
+|Exercicio 024|[Quantidade Cavalos Levantar Massa](./exercicio%20024%20-%20Quantidade%20Cavalos%20Levantar%20Massa/)
 |Exercicio 025|[]()
 |Exercicio 026|[]()
 |Exercicio 027|[]()
 |Exercicio 028|[]()
 |Exercicio 029|[]()
 |Exercicio 030|[]()
+
+
+## References
+[Click Here](./reference/)
+
 
 ## Entre em contato!
 

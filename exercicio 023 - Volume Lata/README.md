@@ -1,17 +1,10 @@
-# Exercicio - Unidade Dezena Centena e Milhar
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
-- Exemplo: 3234
-
-`
-    Unidade: 4;
-    Dezena: 3;
-    Centena: 2;
-    Milhar: 3;
-` 
+# Exercicio - Volume Lata
+- Calcular e apresentar o valor do volume de uma lata de óleo, utilizando fórmula: V = PI * R * R * A;
+- V, R e A representam respectivamente o volume, o raio e a altura.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 
