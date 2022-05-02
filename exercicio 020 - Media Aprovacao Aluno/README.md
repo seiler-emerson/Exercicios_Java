@@ -1,10 +1,12 @@
-# Exercicio - Sorteio Ordem Apresentaçao
-- Um professor quer sortear a ordem de apresentação de trabalhos dos alunos.
-- Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+# Exercicio - Média Aprovação Aluno
+- A partir de 3 notas fornecidas de um aluno, informe se ele foi aprovado,  ficou de recuperação ou foi reprovado.
+- A média de aprovação é >= 7.0.
+- A média de recuperação é >= 5.0 e < 7.0.
+- A média do reprovado é < 5.0.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 

@@ -1,10 +1,10 @@
-# Exercicio - Sorteio Aluno
-- Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
-- Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+# Exercicio - Idade Ano Atual
+- Determine qual é a idade que o usuário faz no ano atual.
+- Para isso solicite o ano de nascimento do usuário e o ano atual.
 
 ## Aplicação em uso.
 
-![Gif Exercicio](./img/exercicio.png)
+![Gif Exercicio](./img/exercicio.gif)
 
 ### Entre em contato!
 
