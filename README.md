@@ -37,7 +37,7 @@
 |Exercicio 031|[Comparando Números](./exercicio%20031%20-%20Comparando%20Valores/)
 |Exercicio 032|[Alistamento Militar](./exercicio%20032%20-%20Alistamento%20Militar/)
 |Exercicio 033|[Categoria Atleta](./exercicio%20033%20-%20Categoria%20Atleta/)
-|Exercicio 034|[]()
+|Exercicio 034|[Possível Formar Triângulo?](./exercicio%20034%20-%20Possivel%20Formar%20Triangulo/)
 |Exercicio 035|[]()
 |Exercicio 036|[]()
 |Exercicio 037|[]()
