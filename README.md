@@ -35,7 +35,7 @@
 |Exercicio 029|[Verificador Ano Bisexto](./exercicio%20029%20-%20Verificador%20Ano%20Bisexto/)
 |Exercicio 030|[Calculadora de Aumento](./exercicio%20030%20-%20Calculadora%20de%20Aumento/)
 |Exercicio 031|[Comparando Números](./exercicio%20031%20-%20Comparando%20Valores/)
-|Exercicio 032|[]()
+|Exercicio 032|[Alistamento Militar](./exercicio%20032%20-%20Alistamento%20Militar/)
 |Exercicio 033|[]()
 |Exercicio 034|[]()
 |Exercicio 035|[]()
