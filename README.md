@@ -40,7 +40,7 @@
 |Exercicio 034|[Possível Formar Triângulo?](./exercicio%20034%20-%20Possivel%20Formar%20Triangulo/)
 |Exercicio 035|[Financiamento Imobiliario](./exercicio%20035%20-%20Financiamento%20Imobiliario/)
 |Exercicio 036|[Preço Produto](./exercicio%20036%20-%20Preco%20Produto/)
-|Exercicio 037|[]()
+|Exercicio 037|[Calculadora IMC](./exercicio%20037%20-%20IMC/)
 |Exercicio 038|[]()
 |Exercicio 039|[]()
 |Exercicio 040|[]()
