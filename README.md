@@ -34,7 +34,17 @@
 |Exercicio 028|[Preço Passagem](./exercicio%20028%20-%20Preco%20Passagem/)
 |Exercicio 029|[Verificador Ano Bisexto](./exercicio%20029%20-%20Verificador%20Ano%20Bisexto/)
 |Exercicio 030|[Calculadora de Aumento](./exercicio%20030%20-%20Calculadora%20de%20Aumento/)
-
+|Exercicio 031|[Comparando Números](./exercicio%20031%20-%20Comparando%20Valores/)
+|Exercicio 032|[]()
+|Exercicio 033|[]()
+|Exercicio 034|[]()
+|Exercicio 035|[]()
+|Exercicio 036|[]()
+|Exercicio 037|[]()
+|Exercicio 038|[]()
+|Exercicio 039|[]()
+|Exercicio 040|[]()
+|Exercicio 041|[]()
 
 ## References
 [Click Here](./reference/)
