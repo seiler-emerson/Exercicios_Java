@@ -45,7 +45,7 @@
 |Exercicio 039|[]()
 |Exercicio 040|[]()
 |Exercicio 041|[]()
-
+|Exercicio 041|[]()
 ## References
 [Click Here](./reference/)
 
