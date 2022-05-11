@@ -15,7 +15,6 @@ public class Main {
 		number = input.nextInt();
 		String numberToString = Integer.toString(number);
 
-		
 		if (number<0) {
 			System.out.println("Invalid number!");
 		} else if(number<10) {
