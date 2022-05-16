@@ -41,11 +41,11 @@
 |Exercicio 035|[Financiamento Imobiliario](./exercicio%20035%20-%20Financiamento%20Imobiliario/)
 |Exercicio 036|[Preço Produto](./exercicio%20036%20-%20Preco%20Produto/)
 |Exercicio 037|[Calculadora IMC](./exercicio%20037%20-%20IMC/)
-|Exercicio 038|[]()
-|Exercicio 039|[]()
-|Exercicio 040|[]()
-|Exercicio 041|[]()
-|Exercicio 041|[]()
+|Exercicio 038|[Especificacao De Um Numero](./exercicio%20038%20-%20Especificacao%20De%20Um%20Numero/)
+|Exercicio 039|[Numeros Pares 1 a 50](./exercicio%20039%20-%20Quais%20Sao%20Numeros%20Pares%201%20a%2050/)
+|Exercicio 040|[Lendo Lista](./exercicio%20040%20-%20Lendo%20Lista/)
+|Exercicio 0xx|[]()
+
 ## References
 [Click Here](./reference/)
 
