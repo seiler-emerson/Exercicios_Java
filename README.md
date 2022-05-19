@@ -44,7 +44,7 @@
 |Exercicio 038|[Especificacao De Um Numero](./exercicio%20038%20-%20Especificacao%20De%20Um%20Numero/)
 |Exercicio 039|[Numeros Pares 1 a 50](./exercicio%20039%20-%20Quais%20Sao%20Numeros%20Pares%201%20a%2050/)
 |Exercicio 040|[Lendo Lista](./exercicio%20040%20-%20Lendo%20Lista/)
-|Exercicio 0xx|[]()
+|Exercicio 041|[Numero Maior e Menor](./exercicio%20041%20-%20Ler%20Tres%20Numeros%20e%20Dizer%20Qual%20Maior%20Menor/)
 
 ## References
 [Click Here](./reference/)
