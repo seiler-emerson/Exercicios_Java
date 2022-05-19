@@ -47,7 +47,7 @@
 |Exercicio 041|[Numero Maior e Menor](./exercicio%20041%20-%20Ler%20Tres%20Numeros%20e%20Dizer%20Qual%20Maior%20Menor/)
 |Exercicio 042|[Soma Multiplos 3 Entre 1 e 500](./exercicio%20042%20-%20Soma%20Multiplos%20de%203%20entre%201%20e%20500/)
 |Exercicio 043|[Montando Tabuada com For](./exercicio%20043%20-%20Montando%20Tabuada%20com%20For/)
-
+|Exercicio 044|[Armazenar numeros em vetor e somar pares](./exercicio%20044%20-%20Armazenando%20numeros%20em%20vetor%20e%20somando%20pares/)
 ## References
 [Click Here](./reference/)
 
