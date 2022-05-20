@@ -3,6 +3,13 @@
 - O azulejo retangular tem dimensões ha (altura do azulejo) e la (largura do azulejo).
 - Escreva um programa que leia as quatro medidas hp, lp, ha e la, calcule e imprima quanto azulejos com as medidas dadas são necessários para cobrir a parede dada.
 
+<details >
+  <summary><b>Problem Description - PT-BR</b></summary>
+
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+</details>
+
 ## Aplicação em uso.
 
 ![Gif Exercicio](./img/exercicio.gif)

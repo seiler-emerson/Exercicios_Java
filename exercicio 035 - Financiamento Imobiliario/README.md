@@ -1,6 +1,13 @@
 # Exercicio - Financiamento Imobiliario
 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 
+<details >
+  <summary><b>Problem Description - PT-BR</b></summary>
+
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+</details>
+
 ## Aplicação em uso.
 
 ![Gif Exercicio](./img/exercicio.gif)

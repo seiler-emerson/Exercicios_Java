@@ -5,6 +5,17 @@
     2. Average height of men;
     3. The number of women.
 
+<details >
+  <summary><b>Problem Description - PT-BR</b></summary>
+
+- Temos um conjunto de dados contendo a altura e sexo (masculino, feminino) de 10 pessoas.
+- Faça um algoritmo que calcule e escreva:
+     1. A maior e a menor altura do grupo;
+     2. Altura média dos homens;
+     3. O número de mulheres.
+
+</details>
+
 ## Application in use.
 
 ![Gif Exercicio](./img/exercise.gif)

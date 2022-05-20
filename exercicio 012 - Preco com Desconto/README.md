@@ -1,6 +1,13 @@
 # Exercicio - Preço com Desconto
 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
+<details >
+  <summary><b>Problem Description - PT-BR</b></summary>
+
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+</details>
+
 ## Aplicação em uso.
 
 ![Gif Exercicio](./img/exercicio.gif)

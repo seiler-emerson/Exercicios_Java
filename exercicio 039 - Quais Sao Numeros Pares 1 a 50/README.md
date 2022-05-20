@@ -1,11 +1,18 @@
-# Exercicio - Contando números
+# Exercise - Counting numbers
+- Create a program that displays on the screen all even numbers that are in the range between 1 and 50.
+
+<details >
+  <summary><b>Problem Description - PT-BR</b></summary>
+
 - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
-## Aplicação em uso.
+</details>
+
+## Application in use.
 
 ![Gif Exercicio](./img/exercicio.png)
 
-### Entre em contato!
+### Contact!
 
 [Emerson Seiler](https://www.linkedin.com/in/seileremerson/)
 

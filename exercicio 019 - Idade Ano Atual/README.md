@@ -2,6 +2,13 @@
 - Determine qual é a idade que o usuário faz no ano atual.
 - Para isso solicite o ano de nascimento do usuário e o ano atual.
 
+<details >
+  <summary><b>Problem Description - PT-BR</b></summary>
+
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+</details>
+
 ## Aplicação em uso.
 
 ![Gif Exercicio](./img/exercicio.gif)
