@@ -1,10 +1,10 @@
-# Exercicio - Hello World
-- Faça um programa que exiba Hello Word no console.
+# Exercise - Hello World
+- Make a program that displays Hello World on the console.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Faça um programa que exiba Hello Word no console.
 
 </details>
 

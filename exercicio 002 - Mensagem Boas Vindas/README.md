@@ -1,10 +1,10 @@
-# Exercicio - Mensagem Boas Vindas
-- Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+# Exercise - Welcome Message
+- Make a program that reads a person's name and displays a welcome message.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
 </details>
 

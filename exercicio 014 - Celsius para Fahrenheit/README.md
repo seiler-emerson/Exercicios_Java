@@ -1,10 +1,10 @@
-# Exercicio - Celsius para Fahrenheit
-- Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
+# Exercise - Celsius to Fahrenheit
+- Write a program that converts a typed temperature to °C and converts it to °F.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
 
 </details>
 

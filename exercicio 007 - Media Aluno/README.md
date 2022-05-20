@@ -1,10 +1,10 @@
-# Exercicio - Média Aluno
-- Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+# Exercise - Student Average
+- Develop a program that reads a student's two grades, calculates and displays their average.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 </details>
 
