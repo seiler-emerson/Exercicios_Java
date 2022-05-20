@@ -1,10 +1,10 @@
-# Exercise - Prime numbers
-- Write a program that reads an integer and tells whether or not it is a prime number.
+# Exercise - Arithmetic Progression
+- Develop a program that reads the first term and reason of an AP. At the end, show the first 10 terms of this progression.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+- Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
 
 </details>
 
