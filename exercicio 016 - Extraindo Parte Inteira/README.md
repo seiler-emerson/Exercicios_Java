@@ -10,11 +10,11 @@
 
 </details>
 
-## Aplicação em uso.
+## Application in use.
 
 ![Gif Exercicio](./img/exercicio.gif)
 
-### Entre em contato!
+### Contact!
 
 [Emerson Seiler](https://www.linkedin.com/in/seileremerson/)
 

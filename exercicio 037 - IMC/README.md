@@ -1,18 +1,18 @@
-# Exercicio - Calculadora IMC
-- Capturar peso e altura para calcular o IMC e exibir o resultado e em qual faixa de peso.
+# Exercise - IMC Calculator
+- Capture weight and height to calculate IMC and display the result and in which weight range.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Capturar peso e altura para calcular o IMC e exibir o resultado e em qual faixa de peso.
 
 </details>
 
-## Aplicação em uso.
+## Application in use.
 
 ![Gif Exercicio](./img/exercicio.gif)
 
-### Entre em contato!
+### Contact!
 
 [Emerson Seiler](https://www.linkedin.com/in/seileremerson/)
 

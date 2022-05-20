@@ -1,18 +1,18 @@
-# Exercicio - Possível Formar Triângulo?
-- Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+# Exercise - Is it possible to form a triangle?
+- Develop a program that reads the length of three lines and tells the user whether or not they can form a triangle.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
 </details>
 
-## Aplicação em uso.
+## Application in use.
 
 ![Gif Exercicio](./img/exercicio.gif)
 
-### Entre em contato!
+### Contact!
 
 [Emerson Seiler](https://www.linkedin.com/in/seileremerson/)
 
