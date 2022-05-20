@@ -1,4 +1,4 @@
-# Exercise - Times Table Generator
+# Exercise - Multiplication Table Generator
 - Write a program that reads any integer and displays its multiplication table from 1 to 10 on the screen.
 
 <details >
