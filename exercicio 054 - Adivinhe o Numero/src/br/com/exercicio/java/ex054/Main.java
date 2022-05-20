@@ -20,7 +20,7 @@ public class Main {
 			numeroComputador = (byte) geradorNumeros.nextInt(11);
 			System.out.println("VAMOS LA");
 			System.out.println("Tente adivinhar o numero que o computador esta \"PENSANDO\"");
-			System.out.println("o computador pensou em " + numeroComputador);
+//			System.out.println("o computador pensou em " + numeroComputador);
 			palpite = input.nextByte();
 			System.out.println("");
 			if (palpite == numeroComputador) {
