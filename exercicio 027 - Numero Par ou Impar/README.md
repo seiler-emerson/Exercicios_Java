@@ -1,10 +1,10 @@
-# Exercicio - Número Par ou Impar
-- Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+# Exercise - Even or Odd Number
+- Create a program that reads an integer and shows on the screen if it is ODD or EVEN.
 
 <details >
   <summary><b>Problem Description - PT-BR</b></summary>
 
-- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
 
 </details>
 
